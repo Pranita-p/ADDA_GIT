@@ -1,6 +1,6 @@
 A Blochain Parking System using Ethereum.
 
 #Requirements:
-Truffle
-Ganache
+Truffle,
+Ganache,
 Meta Mask
